@@ -35,7 +35,7 @@ import java.nio.file.Paths;
  * Class the manage the central configuration and set up.
  */
 public abstract class Game {
-    private static final int DEFAULT_VERSION = 340;
+    private static final int DEFAULT_VERSION = 0x40000008;
     private static NetworkMode mode = NetworkMode.STATUS;
     private static Dimension dimension = Dimension.OVERWORLD;
     private static Coordinate3D playerPosition;
