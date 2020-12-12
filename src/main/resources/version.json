@@ -26,9 +26,9 @@
 				"0x08": "close_window"
 			}
 		},		
-		"404": {
-			"version": "1.13.2",
-			"dataVersion": 1631,
+		"0x40000008": {
+			"version": "20w49a",
+			"dataVersion": 2685,
 			"clientbound": {
 				"0x22": "chunk_data",
 				"0x1F": "chunk_unload",
